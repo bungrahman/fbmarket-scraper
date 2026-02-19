@@ -1,0 +1,13 @@
+node_modules/
+cookies.json
+tokped_cookies.json
+*.log
+debug-*
+fbmp.json
+marketplace.json
+mercari.json
+mercari2.json
+tokopedia.json
+yahoo-auctions.json
+.env
+.DS_Store
